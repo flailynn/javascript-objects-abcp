@@ -1,4 +1,4 @@
-# JavaScript Objects
+delete# JavaScript Objects
 
 ## Overview
 
